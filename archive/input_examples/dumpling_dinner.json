@@ -1,0 +1,16 @@
+{
+    "timestamp": "20230210T183500-0500",
+    "people": {
+        "Anoush": {
+            "pre_tax_amt": 23.43,
+            "calc_type": "exact"
+        },
+        "Seth": {
+            "pre_tax_amt": 45.62,
+            "calc_type": "exact"
+        }
+    },
+    "tax": 4.83,
+    "tip_type": "pre_tax_pct",
+    "tip_val": 20
+}

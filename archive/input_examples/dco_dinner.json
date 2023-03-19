@@ -1,0 +1,28 @@
+{
+    "timestamp": "20230304T215800-0500",
+    "people": {
+        "Grace": {
+            "pre_tax_amt": 22,
+            "calc_type": "exact"
+        },
+        "Sachin": {
+            "pre_tax_amt": 15,
+            "calc_type": "exact"
+        },
+        "Anoush": {
+            "pre_tax_amt": 19,
+            "calc_type": "exact"
+        },
+        "Guadalupe": {
+            "pre_tax_amt": 6,
+            "calc_type": "exact"
+        },
+        "Sophia": {
+            "pre_tax_amt": 7,
+            "calc_type": "exact"
+        }
+    },
+    "tax": 5.88,
+    "tip_type": "pre_tax_pct",
+    "tip_val": 20
+}
